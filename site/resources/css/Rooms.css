@@ -1,0 +1,15 @@
+ .secNav {
+  padding-top: 50px;
+}
+
+
+.hide-bullets {
+list-style:none;
+margin-left: -40px;
+margin-top:20px;
+}
+
+.carousel .carousel-inner img {
+    height: 350px;
+    width: 100%
+}

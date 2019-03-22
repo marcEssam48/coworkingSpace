@@ -1,0 +1,15 @@
+/* start golbal */
+
+.secNav {
+  padding-top: 50px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0
+}
+h1 h3 h2 h4 h5 .lead{
+    font-family: 'Droid Sans', sans-serif;
+}
+/* end global */

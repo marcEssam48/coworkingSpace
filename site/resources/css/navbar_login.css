@@ -1,0 +1,13 @@
+.navbar_navbar-inverse{
+
+	display: inline-block;
+}
+
+.nav_navbar-nav_navbar-right{
+
+	display: inline-block;
+	padding:20px;
+	background-color: grey;
+	float: left;
+
+}

@@ -1,0 +1,36 @@
+ th ,td{
+	border: 1px solid black;
+	text-align: center;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	
+	
+
+}
+
+.table{
+	padding-top: 100px;
+	padding-left: 50px;
+
+}
+input{
+	width: 80px;
+}
+.table .saving th{
+	border: 0px;
+}
+.saving{
+	padding-left: 700px;
+}
+button{
+	border-radius: 20px;
+	width:100px;
+	
+
+}
+button:hover{
+	 background-color: grey;
+}
+
